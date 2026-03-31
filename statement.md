@@ -29,9 +29,3 @@ Provide easy-to-understand feedback
 Suggest improvements for weak passwords
 Simple and user-friendly command-line interface
 
-⚠️ Why this will work
-
-
-Proper spacing between lines ✅
-Bullets instead of plain text ✅
-Headings separated correctly ✅
