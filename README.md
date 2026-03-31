@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analyzer (AI-Inspired)
+#  Password Strength Analyzer 
 
 A smart and lightweight Password Strength Analyzer built using Python that evaluates how secure a password is and provides actionable suggestions to improve it.
 
@@ -6,7 +6,7 @@ Unlike traditional rule-based systems, this tool focuses on real-world password 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Traditional password systems rely on simple rules like minimum length, uppercase letters, or numbers. These rules are easy to bypass using predictable passwords like `School@123`.
 
@@ -20,7 +20,7 @@ This project introduces a smarter approach:
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Score-based password evaluation (0–100)
 - Detects weak sequences (abc, 123, etc.)
@@ -31,7 +31,7 @@ This project introduces a smarter approach:
 
 ---
 
-## 🧠 Scoring Logic
+##  Scoring Logic
 
 - Length (25 points)  
 - Uppercase letters (15 points)  
@@ -45,7 +45,7 @@ This project introduces a smarter approach:
 
 ---
 
-## 📊 Rating System
+## Rating System
 
 - 90–100 → Strong  
 - 75–89 → Moderate  
@@ -55,7 +55,7 @@ This project introduces a smarter approach:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3  
 - Built-in module: string  
@@ -63,7 +63,7 @@ This project introduces a smarter approach:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Save file as:password_analyzer.py
 
@@ -75,7 +75,7 @@ This project introduces a smarter approach:
 
 ---
 
-## 🧪 Example Output
+##  Example Output
 
 Analyzed Password: hello
 Score: 30 / 100
@@ -90,17 +90,7 @@ Increase length
 
 ---
 
-## 📂 Project Structure
-
-
-password-analyzer/
-│── password_analyzer.py
-│── README.md
-
-
----
-
-## 👨‍💻 Author
+##  Author
 
 Siddhant Bandil
 
